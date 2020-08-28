@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>思齐轩</title>
+  
+  <subtitle>思齐轩</subtitle>
+  <link href="http://siqixuan.gitee.io/atom.xml" rel="self"/>
+  
+  <link href="http://siqixuan.gitee.io/"/>
+  <updated>2020-08-28T08:57:32.345Z</updated>
+  <id>http://siqixuan.gitee.io/</id>
+  
+  <author>
+    <name>一路走来</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python入门教程</title>
+    <link href="http://siqixuan.gitee.io/2020/08/28/Python%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"/>
+    <id>http://siqixuan.gitee.io/2020/08/28/Python%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</id>
+    <published>2020-08-28T08:50:51.000Z</published>
+    <updated>2020-08-28T08:57:32.345Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Python入门教程&quot;&gt;&lt;a href=&quot;#Python入门教程&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://siqixuan.gitee.io/2020/08/27/hello-world/"/>
+    <id>http://siqixuan.gitee.io/2020/08/27/hello-world/</id>
+    <published>2020-08-27T08:15:18.743Z</published>
+    <updated>2020-08-28T08:28:54.682Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
