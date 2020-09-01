@@ -56,3 +56,21 @@
         transform: translate(0, 0.5px) rotate(1.5deg);
     }
 }
+@font-face{
+    font-family: 'myFont';
+    src: url('../font/myFont.ttf');
+}
+
+body{
+    font-family: 'myFont';
+}
+
+@font-face{
+    font-family: 'myFont2';
+    src: url('../font/myFont2.ttf');
+}
+.diyFont{
+    font-family: 'myFont2';
+}
+
+

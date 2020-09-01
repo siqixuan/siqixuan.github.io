@@ -24,8 +24,6 @@
             
             <tag> 美文 </tag>
             
-            <tag> 随笔 </tag>
-            
         </tags>
       
     </entry>
@@ -71,9 +69,9 @@
       
       <categories>
           
-          <category> python </category>
-          
           <category> 编程 </category>
+          
+          <category> python </category>
           
       </categories>
       
