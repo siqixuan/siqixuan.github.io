@@ -466,11 +466,11 @@
                 </a>
                 
                 
-                <a href="/categories/python/" title="python: 1">
+                <a href="/categories/%E7%BC%96%E7%A8%8B/" title="编程: 2">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            style="background-color: #F5EEF8;">python
-                        <span class="tag-length">1</span>
+                            style="background-color: #F5EEF8;">编程
+                        <span class="tag-length">2</span>
                     </span>
                 </a>
                 
@@ -484,29 +484,11 @@
                 </a>
                 
                 
-                <a href="/categories/python/%E7%BC%96%E7%A8%8B/" title="编程: 1">
+                <a href="/categories/%E7%BC%96%E7%A8%8B/python/" title="python: 2">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            style="background-color: #E8F8F5;">编程
-                        <span class="tag-length">1</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/categories/%E7%BC%96%E7%A8%8B/" title="编程: 1">
-                    <span class="chip center-align waves-effect waves-light
-                             chip-default "
-                            style="background-color: #FEF9E7;">编程
-                        <span class="tag-length">1</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/categories/%E7%BC%96%E7%A8%8B/python/" title="python: 1">
-                    <span class="chip center-align waves-effect waves-light
-                             chip-default "
-                            style="background-color: #F8F9F9;">python
-                        <span class="tag-length">1</span>
+                            style="background-color: #E8F8F5;">python
+                        <span class="tag-length">2</span>
                     </span>
                 </a>
                 
@@ -553,7 +535,7 @@
                     color: '#3C4858'
                 }
             },
-            indicator: [{"name":"文章","max":2},{"name":"python","max":2},{"name":"来源微信","max":2},{"name":"编程","max":2},{"name":"编程","max":2},{"name":"python","max":2}],
+            indicator: [{"name":"文章","max":3},{"name":"编程","max":3},{"name":"来源微信","max":3},{"name":"python","max":3}],
             nameGap: 5,
             center: ['50%','55%'],
             radius: '66%'
@@ -564,7 +546,7 @@
             itemStyle: {normal: {areaStyle: {type: 'default'}}},
             data : [
                 {
-                    value : [1,1,1,1,1,1],
+                    value : [1,2,1,2],
                     name : '文章分类数量'
                 }
             ]
@@ -575,6 +557,299 @@
 </script>
 
     
+    
+
+<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
+<script src="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<style>
+.category:not(:last-child) {
+  margin-bottom: 1rem;
+}
+.category-item {
+  font-size: 1.25rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+.category-subitem {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.category-collapse {
+  margin-left: 1.25rem;
+  width: 100%;
+}
+.category-count {
+  font-size: 0.9rem;
+  font-weight: initial;
+  min-width: 1.3em;
+  line-height: 1.3em;
+  display: flex;
+  align-items: center;
+}
+.category-count i {
+  padding-right: 0.25rem;
+}
+.category-count span {
+  width: 2rem;
+}
+.category-item-action:not(.collapsed) > i {
+  transform: rotate(90deg);
+  transform-origin: center center;
+}
+.category-item-action i {
+  transition: transform 0.3s ease-out;
+  display: inline-block;
+  margin-left: 0.25rem;
+}
+.category-item-action:hover {
+  z-index: 1;
+  color: #38ACDF;
+  text-decoration: none;
+  background-color: #F8F9FA;
+}
+.category .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+.list-group-item:first-child {
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+
+.category-item {
+    font-size: 1.25rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+.list-group-item {
+    background-color: transparent;
+    border: 0;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    background-color: #fff;
+    /* border: 1px solid rgba(0,0,0,.125); */
+}
+
+#card-list-zzy .list-group-item:hover {
+    color: #38ACDF;
+    background-color: #F8F9FA;
+    /*  border: 1px solid rgba(0,0,0,.125); */
+}
+
+.category-item-action i {
+    transition: transform .3s ease-out;
+    display: inline-block;
+    margin-left: .25rem;
+}
+
+card-categories-list-spcail > div:hover{
+
+    color:#38ACDF;
+    background-color: #F8F9FA;
+}
+
+.fa {
+    font-size: 1rem;
+    line-height: 1;
+}
+.category-count {
+    font-size: .9rem;
+    font-weight: initial;
+    min-width: 1.3em;
+    line-height: 1.3em;
+    display: flex;
+    align-items: center;
+}
+
+.collapse:not(.show) {
+    display: none;
+}
+
+
+
+.collapsing {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  @include transition($transition-collapse);
+
+}
+#card-list-zzy{
+    position: relative;
+    /* margin-top: -2rem; */
+    transition: background-color .2s ease-in-out;
+    border-radius: .5rem;
+    z-index: 3;
+}
+
+</style>
+
+
+  
+
+
+
+
+
+
+<div class="container" data-aos="fade-up">
+    <div class="card  card-categories-list-spcail">
+        <div class="card-content col-12 col-md-10 m-auto ">
+            <div  id="card-list-zzy" class="">
+                <div class="category-list">
+                  
+                  
+  
+  
+    
+    
+    <div class="category row">
+      <a
+        class="category-item  list-group-item category-item-action col-10 col-md-11"
+        id="heading-ckek1b5lc000ayov3cyw658an" role="tab" data-toggle="collapse"   data-target="#collapse-ckek1b5lc000ayov3cyw658an"
+        aria-expanded="true"
+      >
+        文章
+        <i class="fas fa-chevron-right"></i>
+      </a>
+      <a href="/categories/%E6%96%87%E7%AB%A0/" class="category-count col-2 col-md-1">
+        <i class="fa fa-list"></i>
+        <span>1</span>
+      </a>
+      <div class="category-collapse">
+        
+          
+  <div id="collapse-ckek1b5lc000ayov3cyw658an" class=" collapse in show" role="tabpanel"
+       aria-labelledby="heading-ckek1b5lc000ayov3cyw658an">
+    
+  
+  
+    
+    
+    <div class="category-sub row">
+      <a
+        class="category-subitem collapsed list-group-item category-item-action col-10 col-md-11"
+        id="heading-ckek1b5lg000fyov3g3xu2wms" role="tab" data-toggle="collapse"   data-target="#collapse-ckek1b5lg000fyov3g3xu2wms"
+        aria-expanded="false"
+      >
+        来源微信
+        <i class="fas fa-chevron-right"></i>
+      </a>
+      <a href="/categories/%E6%96%87%E7%AB%A0/%E6%9D%A5%E6%BA%90%E5%BE%AE%E4%BF%A1/" class="category-count col-2 col-md-1">
+        <i class="fa fa-list"></i>
+        <span>1</span>
+      </a>
+      <div class="category-collapse">
+        
+          
+  <div id="collapse-ckek1b5lg000fyov3g3xu2wms" class="collapse in" role="tabpanel"
+       aria-labelledby="heading-ckek1b5lg000fyov3g3xu2wms">
+    
+    
+    
+      
+      
+        <a href="/2020/08/31/%E6%8B%92%E7%BB%9D%E6%B5%AE%E8%BA%81/" class="list-group-item list-group-item-action">
+          <span class="category-post">拒绝浮躁</span>
+        </a>
+      
+    
+  </div>
+
+        
+      </div>
+    </div>
+  
+  </div>
+
+        
+      </div>
+    </div>
+  
+    
+    
+    <div class="category row">
+      <a
+        class="category-item  list-group-item category-item-action col-10 col-md-11"
+        id="heading-ckek1b5le000cyov3470e4tz0" role="tab" data-toggle="collapse"   data-target="#collapse-ckek1b5le000cyov3470e4tz0"
+        aria-expanded="true"
+      >
+        编程
+        <i class="fas fa-chevron-right"></i>
+      </a>
+      <a href="/categories/%E7%BC%96%E7%A8%8B/" class="category-count col-2 col-md-1">
+        <i class="fa fa-list"></i>
+        <span>2</span>
+      </a>
+      <div class="category-collapse">
+        
+          
+  <div id="collapse-ckek1b5le000cyov3470e4tz0" class=" collapse in show" role="tabpanel"
+       aria-labelledby="heading-ckek1b5le000cyov3470e4tz0">
+    
+  
+  
+    
+    
+    <div class="category-sub row">
+      <a
+        class="category-subitem collapsed list-group-item category-item-action col-10 col-md-11"
+        id="heading-ckek1b5lh000hyov31qozhl86" role="tab" data-toggle="collapse"   data-target="#collapse-ckek1b5lh000hyov31qozhl86"
+        aria-expanded="false"
+      >
+        python
+        <i class="fas fa-chevron-right"></i>
+      </a>
+      <a href="/categories/%E7%BC%96%E7%A8%8B/python/" class="category-count col-2 col-md-1">
+        <i class="fa fa-list"></i>
+        <span>2</span>
+      </a>
+      <div class="category-collapse">
+        
+          
+  <div id="collapse-ckek1b5lh000hyov31qozhl86" class="collapse in" role="tabpanel"
+       aria-labelledby="heading-ckek1b5lh000hyov31qozhl86">
+    
+    
+    
+      
+      
+        <a href="/2020/08/30/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%94%E2%80%94NumPy%E5%AD%A6%E4%B9%A0/" class="list-group-item list-group-item-action">
+          <span class="category-post">数据分析——NumPy学习</span>
+        </a>
+      
+    
+      
+      
+        <a href="/2020/08/28/Python%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/" class="list-group-item list-group-item-action">
+          <span class="category-post">Python入门教程</span>
+        </a>
+      
+    
+  </div>
+
+        
+      </div>
+    </div>
+  
+  </div>
+
+        
+      </div>
+    </div>
+  
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 </main>
 

@@ -40,9 +40,9 @@
       
       <categories>
           
-          <category> python </category>
-          
           <category> 编程 </category>
+          
+          <category> python </category>
           
       </categories>
       
@@ -51,7 +51,7 @@
             
             <tag> python </tag>
             
-            <tag> 编程 </tag>
+            <tag> NumPy </tag>
             
         </tags>
       
@@ -80,7 +80,7 @@
             
             <tag> python </tag>
             
-            <tag> 编程 </tag>
+            <tag> 入门篇 </tag>
             
         </tags>
       
