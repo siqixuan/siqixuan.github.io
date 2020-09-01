@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://siqixuan.gitee.io/2020/09/01/Hexo%E5%8D%9A%E5%AE%A2%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E6%83%85%E5%86%B5/</loc>
+    
+    <lastmod>2020-09-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://siqixuan.gitee.io/categories/index.html</loc>
     
     <lastmod>2020-09-01</lastmod>
@@ -88,6 +95,27 @@
 
   
   <url>
+    <loc>http://siqixuan.gitee.io/tags/Hexo/</loc>
+    <lastmod>2020-09-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://siqixuan.gitee.io/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/</loc>
+    <lastmod>2020-09-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://siqixuan.gitee.io/tags/%E7%BE%8E%E6%96%87/</loc>
+    <lastmod>2020-09-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://siqixuan.gitee.io/tags/python/</loc>
     <lastmod>2020-09-01</lastmod>
     <changefreq>daily</changefreq>
@@ -96,13 +124,6 @@
   
   <url>
     <loc>http://siqixuan.gitee.io/tags/NumPy/</loc>
-    <lastmod>2020-09-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://siqixuan.gitee.io/tags/%E7%BE%8E%E6%96%87/</loc>
     <lastmod>2020-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -118,7 +139,14 @@
 
   
   <url>
-    <loc>http://siqixuan.gitee.io/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <loc>http://siqixuan.gitee.io/categories/Hexo/</loc>
+    <lastmod>2020-09-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://siqixuan.gitee.io/categories/Hexo/Blog/</loc>
     <lastmod>2020-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -132,7 +160,7 @@
   </url>
   
   <url>
-    <loc>http://siqixuan.gitee.io/categories/%E7%BC%96%E7%A8%8B/python/</loc>
+    <loc>http://siqixuan.gitee.io/categories/%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2020-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -140,6 +168,13 @@
   
   <url>
     <loc>http://siqixuan.gitee.io/categories/%E6%96%87%E7%AB%A0/%E6%9D%A5%E6%BA%90%E5%BE%AE%E4%BF%A1/</loc>
+    <lastmod>2020-09-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://siqixuan.gitee.io/categories/%E7%BC%96%E7%A8%8B/python/</loc>
     <lastmod>2020-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

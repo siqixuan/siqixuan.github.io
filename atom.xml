@@ -6,7 +6,7 @@
   <link href="http://siqixuan.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://siqixuan.gitee.io/"/>
-  <updated>2020-09-01T14:15:19.341Z</updated>
+  <updated>2020-09-01T14:54:45.360Z</updated>
   <id>http://siqixuan.gitee.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo博客版本更新情况</title>
+    <link href="http://siqixuan.gitee.io/2020/09/01/Hexo%E5%8D%9A%E5%AE%A2%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E6%83%85%E5%86%B5/"/>
+    <id>http://siqixuan.gitee.io/2020/09/01/Hexo%E5%8D%9A%E5%AE%A2%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E6%83%85%E5%86%B5/</id>
+    <published>2020-09-01T14:47:02.000Z</published>
+    <updated>2020-09-01T14:54:45.360Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;博客更新计划&quot;&gt;&lt;a href=&quot;#博客更新计划&quot; class=&quot;headerlink&quot; title=&quot;博客更新计划&quot;&gt;&lt;/a&gt;博客更新计划&lt;/h1&gt;&lt;h2 id=&quot;V1-0版本说明&quot;&gt;&lt;a href=&quot;#V1-0版本说明&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="http://siqixuan.gitee.io/categories/Hexo/"/>
+    
+    <category term="Blog" scheme="http://siqixuan.gitee.io/categories/Hexo/Blog/"/>
+    
+    
+    <category term="Hexo" scheme="http://siqixuan.gitee.io/tags/Hexo/"/>
+    
+    <category term="版本更新" scheme="http://siqixuan.gitee.io/tags/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>拒绝浮躁</title>
