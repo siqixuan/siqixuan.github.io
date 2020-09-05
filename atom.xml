@@ -6,7 +6,7 @@
   <link href="http://siqixuan.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://siqixuan.gitee.io/"/>
-  <updated>2020-09-05T04:23:49.623Z</updated>
+  <updated>2020-09-05T06:45:12.691Z</updated>
   <id>http://siqixuan.gitee.io/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="http://siqixuan.gitee.io/2020/09/04/%E5%AD%A6%E6%9C%AF%E6%98%AF%E4%B8%80%E5%9C%BA%E8%B6%85%E8%B6%8A%E9%87%91%E9%92%B1%E7%9A%84%E4%BF%AE%E8%A1%8C/"/>
     <id>http://siqixuan.gitee.io/2020/09/04/%E5%AD%A6%E6%9C%AF%E6%98%AF%E4%B8%80%E5%9C%BA%E8%B6%85%E8%B6%8A%E9%87%91%E9%92%B1%E7%9A%84%E4%BF%AE%E8%A1%8C/</id>
     <published>2020-09-04T14:38:56.000Z</published>
-    <updated>2020-09-05T04:23:49.623Z</updated>
+    <updated>2020-09-05T06:45:12.691Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;学术是一场超越金钱的修行        </summary>
+    <summary type="html">&lt;p&gt;学术是一场超越金钱的修行         作者：佚名&lt;/p&gt;
+&lt;img src=&quot;https://gitee.com/siqixuan/blogimage/raw/master/20200905143606.png&quot; alt=&quot;博士毕业论文感谢信&quot;</summary>
         
       
     
@@ -48,7 +49,7 @@
     <link href="http://siqixuan.gitee.io/2020/09/01/Hexo%E5%8D%9A%E5%AE%A2%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E6%83%85%E5%86%B5/"/>
     <id>http://siqixuan.gitee.io/2020/09/01/Hexo%E5%8D%9A%E5%AE%A2%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E6%83%85%E5%86%B5/</id>
     <published>2020-09-01T14:47:02.000Z</published>
-    <updated>2020-09-04T15:27:57.692Z</updated>
+    <updated>2020-09-05T06:45:25.871Z</updated>
     
     
       
@@ -77,7 +78,7 @@
     <link href="http://siqixuan.gitee.io/2020/08/31/%E6%8B%92%E7%BB%9D%E6%B5%AE%E8%BA%81/"/>
     <id>http://siqixuan.gitee.io/2020/08/31/%E6%8B%92%E7%BB%9D%E6%B5%AE%E8%BA%81/</id>
     <published>2020-08-31T15:20:19.000Z</published>
-    <updated>2020-09-01T14:15:19.341Z</updated>
+    <updated>2020-09-05T06:45:46.807Z</updated>
     
     
       
@@ -100,40 +101,11 @@
   </entry>
   
   <entry>
-    <title>数据分析——NumPy学习</title>
-    <link href="http://siqixuan.gitee.io/2020/08/30/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%94%E2%80%94NumPy%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://siqixuan.gitee.io/2020/08/30/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%94%E2%80%94NumPy%E5%AD%A6%E4%B9%A0/</id>
-    <published>2020-08-30T14:34:06.601Z</published>
-    <updated>2020-09-01T14:14:19.297Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;数据分析——NumPy学习&quot;&gt;&lt;a href=&quot;#数据分析——NumPy学习&quot; class=&quot;headerlink&quot; title=&quot;数据分析——NumPy学习&quot;&gt;&lt;/a&gt;数据分析——NumPy学习&lt;/h1&gt;&lt;h2 id=&quot;NumPy练习与思考&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="编程" scheme="http://siqixuan.gitee.io/categories/%E7%BC%96%E7%A8%8B/"/>
-    
-    <category term="python" scheme="http://siqixuan.gitee.io/categories/%E7%BC%96%E7%A8%8B/python/"/>
-    
-    
-    <category term="python" scheme="http://siqixuan.gitee.io/tags/python/"/>
-    
-    <category term="NumPy" scheme="http://siqixuan.gitee.io/tags/NumPy/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Python入门教程</title>
     <link href="http://siqixuan.gitee.io/2020/08/28/Python%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"/>
     <id>http://siqixuan.gitee.io/2020/08/28/Python%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</id>
     <published>2020-08-28T08:50:51.000Z</published>
-    <updated>2020-09-04T15:28:26.765Z</updated>
+    <updated>2020-09-05T06:45:37.802Z</updated>
     
     
       
@@ -175,6 +147,35 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>数据分析——NumPy学习</title>
+    <link href="http://siqixuan.gitee.io/1970/01/01/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%94%E2%80%94NumPy%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://siqixuan.gitee.io/1970/01/01/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E2%80%94%E2%80%94NumPy%E5%AD%A6%E4%B9%A0/</id>
+    <published>1970-01-01T00:00:00.001Z</published>
+    <updated>2020-09-05T06:44:40.062Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;数据分析——NumPy学习&quot;&gt;&lt;a href=&quot;#数据分析——NumPy学习&quot; class=&quot;headerlink&quot; title=&quot;数据分析——NumPy学习&quot;&gt;&lt;/a&gt;数据分析——NumPy学习&lt;/h1&gt;&lt;h2 id=&quot;NumPy练习与思考&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="编程" scheme="http://siqixuan.gitee.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="python" scheme="http://siqixuan.gitee.io/categories/%E7%BC%96%E7%A8%8B/python/"/>
+    
+    
+    <category term="python" scheme="http://siqixuan.gitee.io/tags/python/"/>
+    
+    <category term="NumPy" scheme="http://siqixuan.gitee.io/tags/NumPy/"/>
     
   </entry>
   
