@@ -6,7 +6,7 @@
   <link href="http://siqixuan.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://siqixuan.gitee.io/"/>
-  <updated>2020-09-27T14:54:03.831Z</updated>
+  <updated>2020-10-04T08:42:34.718Z</updated>
   <id>http://siqixuan.gitee.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>用python实现32个常见的小问题</title>
+    <link href="http://siqixuan.gitee.io/2020/10/04/%E7%94%A8python%E5%AE%9E%E7%8E%B032%E4%B8%AA%E5%B8%B8%E8%A7%81%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98/"/>
+    <id>http://siqixuan.gitee.io/2020/10/04/%E7%94%A8python%E5%AE%9E%E7%8E%B032%E4%B8%AA%E5%B8%B8%E8%A7%81%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98/</id>
+    <published>2020-10-04T08:36:51.000Z</published>
+    <updated>2020-10-04T08:42:34.718Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;emsp-用python实现32个常见的小问题&quot;&gt;&lt;a href=&quot;#emsp-用python实现32个常见的小问题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="编程" scheme="http://siqixuan.gitee.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="python" scheme="http://siqixuan.gitee.io/categories/%E7%BC%96%E7%A8%8B/python/"/>
+    
+    
+    <category term="python" scheme="http://siqixuan.gitee.io/tags/python/"/>
+    
+    <category term="基础篇" scheme="http://siqixuan.gitee.io/tags/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
     <title>人生的智慧</title>
     <link href="http://siqixuan.gitee.io/2020/09/26/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%99%BA%E6%85%A7/"/>
     <id>http://siqixuan.gitee.io/2020/09/26/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%99%BA%E6%85%A7/</id>
     <published>2020-09-26T14:47:49.000Z</published>
-    <updated>2020-09-27T14:54:03.831Z</updated>
+    <updated>2020-10-03T14:54:26.328Z</updated>
     
     
       
