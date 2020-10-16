@@ -6,7 +6,7 @@
   <link href="http://siqixuan.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://siqixuan.gitee.io/"/>
-  <updated>2020-10-06T13:33:05.261Z</updated>
+  <updated>2020-10-16T13:27:13.733Z</updated>
   <id>http://siqixuan.gitee.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>作家眼中的孤独</title>
+    <link href="http://siqixuan.gitee.io/2020/10/16/%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BB%B7%E5%80%BC/"/>
+    <id>http://siqixuan.gitee.io/2020/10/16/%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BB%B7%E5%80%BC/</id>
+    <published>2020-10-16T12:33:16.000Z</published>
+    <updated>2020-10-16T13:27:13.733Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://siqixuan.gitee.io/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="来自微信" scheme="http://siqixuan.gitee.io/categories/%E6%96%87%E7%AB%A0/%E6%9D%A5%E8%87%AA%E5%BE%AE%E4%BF%A1/"/>
+    
+    
+    <category term="美文" scheme="http://siqixuan.gitee.io/tags/%E7%BE%8E%E6%96%87/"/>
+    
+  </entry>
   
   <entry>
     <title>用python实现32个常见的小问题</title>
@@ -140,7 +167,7 @@
     <link href="http://siqixuan.gitee.io/2020/08/31/%E6%8B%92%E7%BB%9D%E6%B5%AE%E8%BA%81/"/>
     <id>http://siqixuan.gitee.io/2020/08/31/%E6%8B%92%E7%BB%9D%E6%B5%AE%E8%BA%81/</id>
     <published>2020-08-31T15:20:19.000Z</published>
-    <updated>2020-10-06T13:33:14.200Z</updated>
+    <updated>2020-10-16T12:34:36.041Z</updated>
     
     
       
@@ -167,7 +194,7 @@
     <link href="http://siqixuan.gitee.io/2020/08/28/Python%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"/>
     <id>http://siqixuan.gitee.io/2020/08/28/Python%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</id>
     <published>2020-08-28T08:50:51.000Z</published>
-    <updated>2020-10-06T13:33:46.935Z</updated>
+    <updated>2020-10-06T23:07:53.214Z</updated>
     
     
       
